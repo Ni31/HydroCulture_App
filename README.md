@@ -1,4 +1,4 @@
---------------Screen-shots-------
+                                                                     --------------Screen-shots-------------- 
 
 ![Screenshot_20240703_174852](https://github.com/Ni31/HydroCulture_App/assets/79063904/e606d91c-4e47-4b2c-b1dd-baf8d64cfa0e)
 ![Screenshot_20240703_174913](https://github.com/Ni31/HydroCulture_App/assets/79063904/4b439067-c4a9-40ba-a1d8-1edbf14935b1)
